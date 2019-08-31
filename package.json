@@ -1,0 +1,26 @@
+{
+  "name": "playlist-dl",
+  "version": "1.0.0",
+  "description": "Download all videos (or just the audio) in a youtube playlist, retaining track order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mymikemiller/playlist-dl.git"
+  },
+  "keywords": [
+    "youtube",
+    "download"
+  ],
+  "author": "mikem.exe@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mymikemiller/playlist-dl/issues"
+  },
+  "homepage": "https://github.com/mymikemiller/playlist-dl#readme",
+  "dependencies": {
+    "youtube-dl": "^2.0.1"
+  }
+}
